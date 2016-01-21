@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <title><![CDATA[blablabla]]></title>
+  <title><![CDATA[学习一个]]></title>
   
   <link href="/atom.xml" rel="self"/>
   <link href="http://yoursite.com/"/>
-  <updated>2016-01-18T10:15:38.059Z</updated>
+  <updated>2016-01-21T10:19:33.165Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -15,24 +15,31 @@
   <generator uri="http://hexo.io/">Hexo</generator>
   
   <entry>
-    <title><![CDATA[Hello World]]></title>
-    <link href="http://yoursite.com/2016/01/18/hello-world/"/>
-    <id>http://yoursite.com/2016/01/18/hello-world/</id>
-    <published>2016-01-18T10:15:38.059Z</published>
-    <updated>2016-01-18T10:15:38.059Z</updated>
-    <content type="html"><![CDATA[<p>Welcome to <a href="https://hexo.io/" target="_blank" rel="external">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/" target="_blank" rel="external">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html" target="_blank" rel="external">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues" target="_blank" rel="external">GitHub</a>.</p>
-<h2 id="Quick_Start"><a href="#Quick_Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create_a_new_post"><a href="#Create_a_new_post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo new <span class="string">"My New Post"</span></span><br></pre></td></tr></table></figure>
-<p>More info: <a href="https://hexo.io/docs/writing.html" target="_blank" rel="external">Writing</a></p>
-<h3 id="Run_server"><a href="#Run_server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure>
-<p>More info: <a href="https://hexo.io/docs/server.html" target="_blank" rel="external">Server</a></p>
-<h3 id="Generate_static_files"><a href="#Generate_static_files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure>
-<p>More info: <a href="https://hexo.io/docs/generating.html" target="_blank" rel="external">Generating</a></p>
-<h3 id="Deploy_to_remote_sites"><a href="#Deploy_to_remote_sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure>
-<p>More info: <a href="https://hexo.io/docs/deployment.html" target="_blank" rel="external">Deployment</a></p>
+    <title><![CDATA[Hello world]]></title>
+    <link href="http://yoursite.com/2016/01/21/First/"/>
+    <id>http://yoursite.com/2016/01/21/First/</id>
+    <published>2016-01-21T08:34:15.000Z</published>
+    <updated>2016-01-21T10:19:33.165Z</updated>
+    <content type="html"><![CDATA[<p>独立博客的准备阶段终于告一段落了，那第一篇文章就先总结一下架设工具吧~<br><a id="more"></a></p>
+<h2 id="u5DE5_u5177"><a href="#u5DE5_u5177" class="headerlink" title="工具"></a>工具</h2><ul>
+<li>Hexo</li>
+<li>Dnspot</li>
+<li>Namecheap</li>
+<li>Github pages</li>
+<li>Markdown<br>拿到github的student develop pack后本来是打算Wordpress+DigtalOcean/Azure+Dnsimple+Namecheap建站的，奈何github太方便，dnsimple要美帝信用卡激活，<del>Wordpress不够酷炫，</del>免费.me域名到期前就先这样吧。</li>
+</ul>
+<h2 id="u52A8_u673A"><a href="#u52A8_u673A" class="headerlink" title="动机"></a>动机</h2><ol>
+<li>在书上看了刘未鹏的文章<a href="http://mindhacks.cn/2009/02/15/why-you-should-start-blogging-now/" target="_blank" rel="external">《<strong>为什么你从现在开始就应该写博客</strong>》</a></li>
+<li><img src="http://pic002.cnblogs.com/img/zhoujg/200912/2009122711363927.png" alt=""></li>
+<li>因为独立博客很酷呀→_→<br>综上，写博客的目的就是为了更好地学习，而不是为了社交货币！那么本博客的第一篇也是最后一篇碎碎念就到此结束=。=</li>
+</ol>
 ]]></content>
     <summary type="html">
-    <![CDATA[<p>Welcome to <a href="https://hexo.io/" target="_blank" rel="external">Hexo</a>! This is your very first post. Check <a href="https://hexo.]]>
+    <![CDATA[<p>独立博客的准备阶段终于告一段落了，那第一篇文章就先总结一下架设工具吧~<br>]]>
+    
     </summary>
+    
+      <category term="碎碎念" scheme="http://yoursite.com/categories/%E7%A2%8E%E7%A2%8E%E5%BF%B5/"/>
     
   </entry>
   
