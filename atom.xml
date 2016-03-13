@@ -4,7 +4,7 @@
   
   <link href="/atom.xml" rel="self"/>
   <link href="http://yoursite.com/"/>
-  <updated>2016-01-21T10:19:33.165Z</updated>
+  <updated>2016-03-13T11:21:06.236Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -15,11 +15,27 @@
   <generator uri="http://hexo.io/">Hexo</generator>
   
   <entry>
+    <title><![CDATA[假期总结]]></title>
+    <link href="http://yoursite.com/2016/02/26/second/"/>
+    <id>http://yoursite.com/2016/02/26/second/</id>
+    <published>2016-02-26T08:22:44.000Z</published>
+    <updated>2016-03-13T11:21:06.236Z</updated>
+    <content type="html"><![CDATA[<p>假期总结哦~~<br><a id="more"></a></p>
+<h2 id="u6F14_u793A_u6587_u6863"><a href="#u6F14_u793A_u6587_u6863" class="headerlink" title="演示文档"></a><a href="http://orashi.me/演示.pptx" target="_blank" rel="external"><strong>演示文档</strong></a></h2><p>我以后有时间再来写这个</p>
+]]></content>
+    <summary type="html">
+    <![CDATA[<p>假期总结哦~~<br>]]>
+    
+    </summary>
+    
+  </entry>
+  
+  <entry>
     <title><![CDATA[Hello world]]></title>
     <link href="http://yoursite.com/2016/01/21/First/"/>
     <id>http://yoursite.com/2016/01/21/First/</id>
     <published>2016-01-21T08:34:15.000Z</published>
-    <updated>2016-01-21T10:19:33.165Z</updated>
+    <updated>2016-03-13T11:21:01.152Z</updated>
     <content type="html"><![CDATA[<p>独立博客的准备阶段终于告一段落了，那第一篇文章就先总结一下架设工具吧~<br><a id="more"></a></p>
 <h2 id="u5DE5_u5177"><a href="#u5DE5_u5177" class="headerlink" title="工具"></a>工具</h2><ul>
 <li>Hexo</li>
